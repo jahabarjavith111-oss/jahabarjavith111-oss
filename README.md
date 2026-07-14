@@ -25,11 +25,13 @@
 -   Email: jahabarjavith111@gmail.com
 -   GitHub: https://github.com/jahabarjavith111-oss
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-C, C++, Java, Python, HTML, CSS, JavaScript, React, Node.js, Express,
-MongoDB, MySQL, Firebase, Kotlin, Flutter, FastAPI, Flask, TensorFlow,
-AWS, Docker, Git, GitHub, VS Code, Postman.
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,firebase,kotlin,flutter,fastapi,flask,tensorflow,aws,docker,git,github,vscode,postman,npm"/>
+
+</p>
 
 ## 🚀 Featured Projects
 
