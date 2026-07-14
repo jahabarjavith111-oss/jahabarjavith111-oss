@@ -95,44 +95,6 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahaba
 
 > "First, solve the problem. Then, write the code."
 
-github/workflows/daily-update.yml
-name: Daily Contribution
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # Every day at 00:00 UTC
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Update timestamp
-        run: |
-          echo "Last updated: $(date -u)" > last-update.txt
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add last-update.txt
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "chore: daily update"
-          git push
-
 ## 👀 Visitors
 
 ![](https://komarev.com/ghpvc/?username=jahabarjavith111-oss&label=Profile+Views)
