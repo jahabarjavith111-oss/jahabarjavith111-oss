@@ -1,104 +1,263 @@
 # Hi 👋, I'm Abdul Javid J
 
-### 🚀 Full Stack Developer \| AI & Data Analytics Enthusiast \| Computer Science Engineering Student
+### 🚀 Full Stack Developer | AI & Data Analytics Enthusiast | Computer Science Engineering Student
 
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Developer+%7C+Data+Analyst;React+%7C+Node.js+%7C+Python;Kotlin+%7C+Firebase+%7C+MongoDB;Always+Learning+New+Technologies;Building+Real+World+Projects+🚀" />`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Developer+%7C+Data+Analyst;React+%7C+Node.js+%7C+Python;Kotlin+%7C+Firebase+%7C+MongoDB;Always+Learning+New+Technologies;Building+Real+World+Projects+🚀" />
 </p>
-```
+
+---
+
 ## 👨‍💻 About Me
 
--   🎓 B.E CSE, J.J. College of Engineering & Technology
--   💻 Full Stack Developer, AI Developer
--   🤖 Interested in AI, ML, Data Analytics & Cloud
--   🌱 Learning AWS, Docker, DevOps, Next.js, System Design
--   📱 Android (Kotlin + Firebase)
--   🤝 Open to internships & open source
+- 🎓 B.E CSE, J.J. College of Engineering & Technology
+- 💻 Full Stack Developer & AI Developer
+- 🤖 Interested in AI, ML, Data Analytics & Cloud Engineering
+- 🌱 Learning AWS, Docker, DevOps, Next.js & System Design
+- 📱 Android Developer with Kotlin & Firebase
+- 🤝 Open to internships, collaborations & open source
 
-## 🌐 Connect
+---
 
--   LinkedIn: https://www.linkedin.com/in/abdul-javid-j-a59048373
--   Portfolio: https://abduljavidj.vercel.app
--   Email: jahabarjavith111@gmail.com
--   GitHub: https://github.com/jahabarjavith111-oss
+## 🌐 Connect With Me
 
-# 💻 Tech Stack
+- 🌐 **Portfolio:** https://abduljavidj.vercel.app
+- 📧 **Email:** jahabarjavith111@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abdul-javid-j-a59048373
+- 🐙 **GitHub:** https://github.com/jahabarjavith111-oss
 
-<p align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,express,mongodb,mysql,firebase,kotlin,flutter,fastapi,flask,tensorflow,aws,docker,git,github,vscode,npm"/>
+# 🛠️ Technical Skills
 
+## 🎨 Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-## 🚀 Featured Projects
+**Technologies:** HTML5, CSS3, JavaScript, React.js, Next.js
 
-### 🛡️ ZELDA
+**Focus Areas:**
+- Responsive Web Development
+- Component-Based Architecture
+- UI/UX Implementation
+- REST API Integration
+- Modern Frontend Architecture
 
-AI-powered Women Safety Android App with voice SOS, GPS tracking,
-encrypted evidence, Firebase.
+---
 
-### 🧠 AI Mental Health Forecasting
+## ⚙️ Backend Engineering
 
-Python, TensorFlow, MongoDB, AWS, FastAPI.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,fastapi,flask" />
+</p>
 
-### 📊 InsightFlow
+**Technologies:** Node.js, Express.js, Java, Spring Boot, FastAPI, Flask
 
-Business Intelligence platform with React, Node.js, Express, MongoDB.
+**Focus Areas:**
+- RESTful API Development
+- Backend Architecture
+- Authentication & Authorization
+- CRUD Operations
+- Business Logic Development
+- API Integration
 
-## 💼 Experience
+---
 
--   Full Stack Developer Intern --- VDart Technologies
--   Data Science Intern --- Codveda Technologies
--   Business Analyst Intern --- Cognifyz Technologies
--   GenAI Data Analyst Intern
+## 🤖 AI / ML & Data Engineering
 
-## 📜 Certifications
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
--   Tata GenAI Data Analyst
--   Tata Cyber Security
--   Google Gemini Student
--   Cisco Junior Cybersecurity Analyst
+**Technologies:** Python, TensorFlow, Pandas, NumPy, Scikit-learn
 
-## 📊 GitHub Stats
+**Focus Areas:**
+- Machine Learning
+- Generative AI
+- Data Analysis
+- Data Preprocessing
+- Predictive Modeling
+- AI Application Development
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jahabarjavith111-oss&show_icons=true&theme=tokyonight)
+---
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahabarjavith111-oss&layout=compact&theme=tokyonight)
+## 📱 Mobile Engineering
 
-## 🔥 Streak
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahabarjavith111-oss&theme=tokyonight)
+**Technologies:** Kotlin, Android, Firebase
 
-## 📈 Contribution Graph
+**Focus Areas:**
+- Android Application Development
+- Firebase Authentication
+- Cloud Firestore
+- Real-Time Applications
+- Mobile UI Development
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahabarjavith111-oss&theme=tokyo-night)
+---
 
-## 🏆 Trophies
+## 🗄️ Database Engineering
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jahabarjavith111-oss&theme=tokyonight&no-frame=true)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
 
+**Technologies:** MySQL, MongoDB, Firebase
 
-## 🎯 Current Focus
+**Focus Areas:**
+- Database Design
+- SQL Queries
+- CRUD Operations
+- Data Modeling
+- NoSQL Databases
+- Database Integration
 
--   Full Stack Development
--   AI & ML
--   Android
--   AWS
--   Docker
--   Open Source
+---
 
-## 💡 Quote
+## ☁️ Cloud & DevOps Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+**Technologies:** AWS, Docker, Git, GitHub
+
+**Focus Areas:**
+- Cloud Deployment
+- Containerization
+- Version Control
+- CI/CD Fundamentals
+- Application Deployment
+- Cloud-Based Development
+
+---
+
+## 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,jupyter,npm" />
+</p>
+
+**Tools:** VS Code, Android Studio, Jupyter Notebook, npm, GitHub
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ ZELDA
+
+AI-powered Women Safety Android Application featuring:
+
+- 🎙️ Voice-based SOS
+- 📍 GPS Tracking
+- 🚨 Emergency Assistance
+- 🔐 Encrypted Evidence Storage
+- 🔥 Firebase Integration
+
+**Tech:** Kotlin, Firebase, AI, Android
+
+---
+
+## 🧠 AI Mental Health Forecasting
+
+Machine Learning application for predictive analysis and forecasting.
+
+**Tech:** Python, TensorFlow, MongoDB, AWS, FastAPI
+
+---
+
+## 📊 InsightFlow
+
+Business Intelligence platform for data analysis and visualization.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+# 💼 Experience
+
+- **Full Stack Developer Intern** — VDart Technologies
+- **Data Science Intern** — Codveda Technologies
+- **Business Analyst Intern** — Cognifyz Technologies
+- **GenAI Data Analyst Intern**
+
+---
+
+# 📜 Certifications
+
+- 🏆 Tata GenAI Data Analyst
+- 🛡️ Tata Cyber Security
+- 🤖 Google Gemini Student
+- 🔐 Cisco Junior Cybersecurity Analyst
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahabarjavith111-oss&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahabarjavith111-oss&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahabarjavith111-oss&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jahabarjavith111-oss&theme=github-compact" width="100%"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jahabarjavith111-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 💻 Full Stack Engineering
+- 🤖 AI & Machine Learning
+- 📊 Data Engineering & Analytics
+- 📱 Android Development
+- ☁️ Cloud Engineering
+- 🐳 DevOps
+- 🏗️ System Design
+- 🌍 Open Source
+
+---
+
+# 💡 Quote
 
 > "First, solve the problem. Then, write the code."
 
-## 👀 Visitors
+---
 
-![](https://komarev.com/ghpvc/?username=jahabarjavith111-oss&label=Profile+Views)
+# 👀 Profile Views
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jahabarjavith111-oss&label=Profile+Views&color=blue&style=flat" />
+</p>
 
-If you like my work, consider starring my repositories.
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  If you like my work, consider starring my repositories.
+</p>
